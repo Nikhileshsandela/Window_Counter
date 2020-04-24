@@ -22,10 +22,10 @@ Faster R-CNN model is trained and tested on Intel CORE i7-8th generation process
 ### Clone
 Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/Window_Counter
 ### Setup
-* Naviagate to Frontend directory in the local machine
+* Navigate to Frontend directory in the local machine
 * Run npm install
 * Run ng serve
-* Naviagate to backend directory
+* Navigate to backend directory
 * Run python backend.py
 * Browse for http://localhost:4200/
 ### Collaborators
